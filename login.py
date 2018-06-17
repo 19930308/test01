@@ -11,4 +11,6 @@ def school():
     classes=12
     avg=students/classes
     return avg
-
+num1=school()
+if num1>500:
+    print('人数很好')
