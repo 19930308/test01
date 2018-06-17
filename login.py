@@ -6,3 +6,9 @@ def fn():
 
 num=10
 
+def school():
+    students=1000
+    classes=12
+    avg=students/classes
+    return avg
+
